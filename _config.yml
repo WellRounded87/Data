@@ -1,1 +1,5 @@
-
+title: Mohammed Al Waheb
+logo: /image/path
+description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
