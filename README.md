@@ -1,6 +1,7 @@
 # Data
+
 ### Education
 
 ### Work Experience
 
-###Projects
+### Projects
